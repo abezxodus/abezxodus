@@ -33,6 +33,6 @@ Until then, I will be developing my breakable toy that allows freelance writers 
 Come say hi on linkedIn (linkedin.com/in/mtrainorpg)
 
 
-[rubyonrails](https://img.shields.io/badge/RubyOnRails-FFFFFF Color>?style=for-the-badge&logo=RubyOnRails&logoColor=#CC0000)
-[<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=#CC0000)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![rubyonrails](https://img.shields.io/badge/RubyOnRails-FFFFFF Color>?style=for-the-badge&logo=RubyOnRails&logoColor=#CC0000)
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=#CC0000)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
