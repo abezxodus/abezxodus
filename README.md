@@ -1,22 +1,4 @@
-### Hi there 👋
-
-<!--
-**abezxodus/abezxodus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-Hey hey hey!
+### Hey hey hey!  👋
 
 Welcome to my github page!
 
@@ -30,4 +12,6 @@ I'm currently looking for my first job as a junior web developer at a company wh
 
 Until then, I will be developing my breakable toy that allows freelance writers to schedule deadlines for their writing projects and track their progress.
 
-Come say hi on [linkedIn](https://linkedin.com/in/mtrainorpg)!
+Come say hi on [linkedIn](https://linkedin.com/in/mtrainorpg)!  
+
+Oh, and I'm Michael (he/him/his).  Abezxodus is just a reference from a 25 year old video game that I never let go of.
